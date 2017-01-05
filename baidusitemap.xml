@@ -4,6 +4,26 @@
 
     
   <url>
+    <loc>http://yoursite.com/2017/01/05/2016%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/</loc>
+    <lastmod>2017-01-05T14:19:10.000Z</lastmod>
+    <data>
+        <display>
+        <title>2016年度总结</title>
+        <pubTime>2017-01-04T18:19:02.000Z</pubTime>
+        
+        <tag>感悟</tag>
+         
+         
+           
+             
+              <breadCrumb title="感悟" url="http://yoursite.com/categories/%E6%84%9F%E6%82%9F/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://yoursite.com/2017/01/05/Java%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1/</loc>
     <lastmod>2017-01-05T14:15:39.000Z</lastmod>
     <data>
@@ -17,26 +37,6 @@
            
              
               <breadCrumb title="Java" url="http://yoursite.com/categories/Java/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://yoursite.com/2017/01/05/2015%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/</loc>
-    <lastmod>2017-01-04T18:21:07.000Z</lastmod>
-    <data>
-        <display>
-        <title>2015年度总结</title>
-        <pubTime>2017-01-04T18:19:02.000Z</pubTime>
-        
-        <tag>感悟</tag>
-         
-         
-           
-             
-              <breadCrumb title="感悟" url="http://yoursite.com/categories/%E6%84%9F%E6%82%9F/"/>
           
         </display>
     </data>
