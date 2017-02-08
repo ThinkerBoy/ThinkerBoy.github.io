@@ -4,6 +4,46 @@
 
     
   <url>
+    <loc>http://yoursite.com/2017/01/18/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%EF%BC%88%E4%B8%80%EF%BC%89/</loc>
+    <lastmod>2017-02-08T05:45:47.000Z</lastmod>
+    <data>
+        <display>
+        <title>机器学习（一）</title>
+        <pubTime>2017-01-18T06:42:24.000Z</pubTime>
+        
+        <tag>机器学习</tag>
+         
+         
+           
+             
+              <breadCrumb title="机器学习" url="http://yoursite.com/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/2017/01/05/2016%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/</loc>
+    <lastmod>2017-01-13T14:08:20.000Z</lastmod>
+    <data>
+        <display>
+        <title>2016年度总结</title>
+        <pubTime>2017-01-04T18:19:02.000Z</pubTime>
+        
+        <tag>感悟</tag>
+         
+         
+           
+             
+              <breadCrumb title="感悟" url="http://yoursite.com/categories/%E6%84%9F%E6%82%9F/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://yoursite.com/2017/01/10/%E9%98%BF%E9%87%8C%E4%BA%91%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</loc>
     <lastmod>2017-01-12T02:26:24.000Z</lastmod>
     <data>
@@ -63,26 +103,6 @@
     </url>
 
     
-    
-  <url>
-    <loc>http://yoursite.com/2017/01/05/2016%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/</loc>
-    <lastmod>2017-01-05T14:19:10.000Z</lastmod>
-    <data>
-        <display>
-        <title>2016年度总结</title>
-        <pubTime>2017-01-04T18:19:02.000Z</pubTime>
-        
-        <tag>感悟</tag>
-         
-         
-           
-             
-              <breadCrumb title="感悟" url="http://yoursite.com/categories/%E6%84%9F%E6%82%9F/"/>
-          
-        </display>
-    </data>
-    </url>
-
     
   <url>
     <loc>http://yoursite.com/2017/01/05/Java%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1/</loc>
